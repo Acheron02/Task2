@@ -33,3 +33,4 @@ function startFadeEffect() {
 }
 
 // Vinegas
+startFadeEffect();
