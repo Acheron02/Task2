@@ -29,7 +29,7 @@ function fadeOutWord() {
 function startFadeEffect() {
   wordElement.textContent = words[currentWordIndex];
 
-  setInterval(OutWord, 4000);
+  setInterval(fadeOutWord, 4000);
 }
 
 // Vinegas
