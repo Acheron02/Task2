@@ -1,11 +1,11 @@
 const words = [
   "Student 1",
-  "Student 2",
-  "Student 3",
+  "Belledo",
+  "Geronio",
   "Student 4",
   "Student 5",
   "Student 6",
-  "Student 7",
+  "Villasana",
   "Student 8",
 ];
 let currentWordIndex = 0;
