@@ -7,7 +7,6 @@ const words = [
   "Student 6",
   "Student 7",
   "Student 8",
-  "Palebino",
 ];
 let currentWordIndex = 0;
 // Toriano
