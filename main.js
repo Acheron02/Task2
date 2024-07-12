@@ -21,15 +21,15 @@ function fadeOutWord() {
     currentWordIndex = (currentWordIndex + 1) % words.length;
     wordElement.textContent = words[currentWordIndex];
     // Geronio
-    wordElement.opacity = 1;
-  }, 1000);
+    wordElement.style.opacity = 1;
+  }, 2000);
 }
 
 // Villasana
 function startFadeEffect() {
   wordElement.textContent = words[currentWordIndex];
 
-  setInterval(OutWord, 4000);
+  setInterval(fadeOutWord, 4000);
 }
 
 // Vinegas
