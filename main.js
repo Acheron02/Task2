@@ -1,6 +1,6 @@
 const words = [
   "Student 1",
-  "Student 2",
+  "Belledo",
   "Student 3",
   "Student 4",
   "Student 5",
