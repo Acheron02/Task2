@@ -19,7 +19,7 @@ function fadeOutWord() {
   //  Belledo
   setTimeout(() => {
     currentWordIndex = (currentWordIndex + 1) % words.length;
-    wordElement = words[currentWordIndex];
+    wordElement.textContent = words[currentWordIndex];
     // Geronio
     wordElement.opacity = 1;
   }, 1000);
