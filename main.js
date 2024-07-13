@@ -14,7 +14,7 @@ const WorDElement = document.getElementById("HAMES");
 
 function fadeOutWord() {
   // Abella
-  wordElement.style = 0;
+  wordElement.style.opacity = 0;
 
   //  Belledo
   setTimeout(() => {
