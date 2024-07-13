@@ -10,7 +10,7 @@ const words = [
 ];
 let currentWordIndex = 0;
 // Toriano
-const WorDElement = document.getElementById("HAMES");
+const WordElement = document.getElementById("HAMES");
 
 function fadeOutWord() {
   // Abella
