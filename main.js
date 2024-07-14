@@ -1,12 +1,12 @@
 const words = [
-  "Student 1",
+  "Abella",
   "Belledo",
   "Geronio",
   "Student 4",
   "Student 5",
-  "Student 6",
+  "Toriano",
   "Villasana",
-  "Student 8",
+  "Vinegas",
 ];
 let currentWordIndex = 0;
 // Toriano
